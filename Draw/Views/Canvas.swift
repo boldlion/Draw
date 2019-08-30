@@ -2,7 +2,7 @@
 //  File.swift
 //  Draw
 //
-//  Created by Daniela Gerdzhikova on 29.08.19.
+//  Created by Bold Lion on 29.08.19.
 //  Copyright © 2019 Bold Lion. All rights reserved.
 //
 
